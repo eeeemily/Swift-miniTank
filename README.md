@@ -4,4 +4,4 @@ CSC216-AR/VR
 Imported TinyToyTank.rcproject to use. The tank can fire canon, turn and push the dominos. 
 
 ## App Demo
-[Mini Tank](https://github.com/eeeemily/Swift-miniTank/blob/main/AR-miniTank.gif)
+[Mini Tank - pushing dominos](https://github.com/eeeemily/Swift-miniTank/blob/main/AR-miniTank.gif)
